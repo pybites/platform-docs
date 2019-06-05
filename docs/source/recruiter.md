@@ -58,14 +58,26 @@ Let's generate 20 interview links for this one:
 
 <img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950657-961bfb00-878f-11e9-9dac-14c9acce4cbc.png">
 
-<img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950778-d1b6c500-878f-11e9-9e27-73063944dff7.png">
+![image](https://user-images.githubusercontent.com/387927/58951306-11ca7780-8791-11e9-8c16-fe1f27575e9d.png)
 
 Your balance went down with 20 but you can still recover those token spots by deleting them. The real token balance credit happens when interviewers start to redeem the links.
 
 For example here I deleted 3 tokens, recovering some of my balance:
 
-<img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950886-13e00680-8790-11e9-81cf-4af89935cfe4.png">
-
+![image](https://user-images.githubusercontent.com/387927/58951340-260e7480-8791-11e9-91a7-047462aecf9d.png)
 
 Let's send Ramit and Sara an interview link, just click the copy button on the first two token rows.
 
+Sara entered the interview token in her browser and gets presented with our typical Bite interface: 
+
+![image](https://user-images.githubusercontent.com/387927/58951377-40485280-8791-11e9-9090-0bc265024b8d.png)
+
+To show you that each token is unique to an interviewee here is what happens when Ramit redeems the same link:
+
+![image](https://user-images.githubusercontent.com/387927/58951555-b51b8c80-8791-11e9-96cd-ea4850cf1864.png)
+
+Let's compare this with the timer view. Tim now set 60 minutes on the Bite, let's get Ramit to open the Bite now:
+
+![image](https://user-images.githubusercontent.com/387927/58951697-14799c80-8792-11e9-8037-e31e436a0f7e.png)
+
+He gets a timer now!
