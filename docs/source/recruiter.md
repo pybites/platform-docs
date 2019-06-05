@@ -46,4 +46,26 @@ Click on "Edit / Publish" to make any changes. Here I update the title and toggl
 
 <img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950485-332a6400-878f-11e9-8db0-9bc34f4ee0de.png">
 
+2 new links appeared: _Submissions_ and _Manage interview tokens_:
+
+<img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950589-6cfb6a80-878f-11e9-87d8-e234cb03d073.png">
+
+Click the latter:
+
+<img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950642-8e5c5680-878f-11e9-8b4d-eebbc1c7acce.png">
+
+Let's generate 20 interview links for this one:
+
+<img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950657-961bfb00-878f-11e9-9dac-14c9acce4cbc.png">
+
+<img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950778-d1b6c500-878f-11e9-9e27-73063944dff7.png">
+
+Your balance went down with 20 but you can still recover those token spots by deleting them. The real token balance credit happens when interviewers start to redeem the links.
+
+For example here I deleted 3 tokens, recovering some of my balance:
+
+<img width="1297" alt="image" src="https://user-images.githubusercontent.com/387927/58950886-13e00680-8790-11e9-81cf-4af89935cfe4.png">
+
+
+Let's send Ramit and Sara an interview link, just click the copy button on the first two token rows.
 
