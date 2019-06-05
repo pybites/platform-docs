@@ -81,3 +81,15 @@ Let's compare this with the timer view. Tim now set 60 minutes on the Bite, let'
 ![image](https://user-images.githubusercontent.com/387927/58951697-14799c80-8792-11e9-8037-e31e436a0f7e.png)
 
 He gets a timer now!
+
+As Tim, the Recruiter, refresh the page. You can now see the tokens being redeemed:
+
+![image](https://user-images.githubusercontent.com/387927/58951762-3c690000-8792-11e9-9587-e5f917c7be4a.png)
+
+Fast forward a bit, having Sara and Ramit submit some code, when you go back to the submissions page this is how it would look:
+
+<img width="1442" alt="image" src="https://user-images.githubusercontent.com/387927/58952399-e39a6700-8793-11e9-92fc-73e80b79ed86.png">
+
+You see their final codes and last submits. Interview Bites are not scored at this point but you see some emojis if a timer was set and the deadline was hit or missed. You can also download a zip file with all the interviewee's submission:
+
+![image](https://user-images.githubusercontent.com/387927/58952334-afbf4180-8793-11e9-9705-da9f71e3598e.png)
