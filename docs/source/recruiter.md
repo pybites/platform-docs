@@ -88,8 +88,12 @@ As Tim, the Recruiter, refresh the page. You can now see the tokens being redeem
 
 Fast forward a bit, having Sara and Ramit submit some code, when you go back to the submissions page this is how it would look:
 
-<img width="1442" alt="image" src="https://user-images.githubusercontent.com/387927/58952399-e39a6700-8793-11e9-92fc-73e80b79ed86.png">
+![image](https://user-images.githubusercontent.com/387927/58952334-afbf4180-8793-11e9-9705-da9f71e3598e.png)
 
 You see their final codes and last submits. Interview Bites are not scored at this point but you see some emojis if a timer was set and the deadline was hit or missed. You can also download a zip file with all the interviewee's submission:
 
-![image](https://user-images.githubusercontent.com/387927/58952334-afbf4180-8793-11e9-9705-da9f71e3598e.png)
+<img width="1442" alt="image" src="https://user-images.githubusercontent.com/387927/58952399-e39a6700-8793-11e9-92fc-73e80b79ed86.png">
+
+We added this feature to not lose any data if you want to delete your own Interview Bites if you run out of free Bite slots on your license.
+
+We hope this new way of interviewing (pre-screening) makes the hiring process more agile and will save you a lot of time. To learn about the ideology about this technology / tier, read our article HERE
