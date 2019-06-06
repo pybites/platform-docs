@@ -11,12 +11,3 @@ Welcome to PyBites Platform documentation!
 
    intro
    recruiter
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
