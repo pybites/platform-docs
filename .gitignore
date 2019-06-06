@@ -1,2 +1,4 @@
 venv
 .idea
+docs/.DS_Store
+docs/build/

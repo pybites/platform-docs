@@ -8,6 +8,7 @@ Welcome to PyBites Platform documentation!
 
 .. toctree::
    :maxdepth: 2
+
    intro
    recruiter
 
