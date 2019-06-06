@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'CodeChalleng.es'
+project = 'PyBites Platform'
 copyright = '2019, PyBites'
 author = 'PyBites'
 
