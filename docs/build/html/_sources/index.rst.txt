@@ -16,13 +16,19 @@ Welcome to PyBites Platform documentation!
    :maxdepth: 2
    :caption: Administration
 
+   administration
+
 .. toctree::
    :maxdepth: 2
    :caption: Coding Bites
 
+   bites
+
 .. toctree::
    :maxdepth: 2
    :caption: Premium Tier
+
+   premium
 
 .. toctree::
    :maxdepth: 2
@@ -33,3 +39,5 @@ Welcome to PyBites Platform documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Enterprise Tier
+
+   enterprise
