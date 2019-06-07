@@ -8,6 +8,28 @@ Welcome to PyBites Platform documentation!
 
 .. toctree::
    :maxdepth: 2
-
+   :caption: Quickstart
+   
    intro
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Administration
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Coding Bites
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Premium Tier
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Recruiter Tier
+   
    recruiter
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Enterprise Tier
