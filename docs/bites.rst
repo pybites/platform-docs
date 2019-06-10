@@ -1,4 +1,4 @@
-How to code a Bite
+How to Solve a Bite
 ==================
 
 Steps for coding a Bite
