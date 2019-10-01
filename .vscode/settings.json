@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "pybites_docs/bin/python3",
+    "git.ignoreLimitWarning": true,
+    "restructuredtext.confPath": "${workspaceFolder}/docs"
+}
