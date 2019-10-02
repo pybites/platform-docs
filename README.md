@@ -1,3 +1,21 @@
 # PyBites Platform Docs
 
-Visit us [here](https://codechalleng.es/)
+This is the docs repo of [CodeChalleng.es](https://codechalleng.es/)
+
+## Contribute
+
+* Fork this repo: [https://github.com/pybites/platform-docs](https://github.com/pybites/platform-docs)
+
+* Clone the fork, for example: `git clone git@github.com:bbelderbos/platform-docs.git platform-docs-bob`
+
+* Create a virtual env and install the dependencies:
+
+		cd platform-docs-bob
+		python3.7 -m venv venv && source venv/bin/activate
+		pip install -r requirements.txt
+
+* Write documentation in `docs`, see [sphinx docs](http://www.sphinx-doc.org/en/master/) for reference.
+
+* Check documentation locally (from root folder): `sphinx-build -b html docs docs/build`, see the `rst` files in `docs/` for examples.
+
+* Push your changes to your fork and open a PR against our repo to get it merged in.
