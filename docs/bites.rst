@@ -1,5 +1,5 @@
 How to Solve a Bite
-==================
+===================
 
 Here is a walk-through of how to solve a Bite on our platform. Although the design changed a bit, core functionality did not:
 
@@ -7,11 +7,15 @@ Here is a walk-through of how to solve a Bite on our platform. Although the desi
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OD0Mc2GMMIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-And here is another video where you see us solve Bite 21:
+------------
+
+And here is another video where you see us solve `Bite #21 <https://codechalleng.es/bites/21/>`_:
 
 .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Yk13k-_QZ-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+------------
 
 If you get stuck on an exercise we recommend you do the following:
 
