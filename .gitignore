@@ -3,3 +3,7 @@ venv
 **.DS_Store
 docs/build/
 docs/_build/
+.vscode
+docs/lib
+docs/bin
+docs/lib64
