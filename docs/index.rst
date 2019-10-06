@@ -29,9 +29,7 @@ PyBites CodeChalleng.es Platform documentation - (under construction)
    :caption: Code Challenges
 
    challenges
-   code_setup
-   code_coding
-   code_pr
+
 
 .. toctree::
    :maxdepth: 2
